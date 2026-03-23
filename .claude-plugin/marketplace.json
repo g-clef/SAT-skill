@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "SAT-skill",
+  "description": "Structured Analytic Techniques for cyber threat intelligence analysis",
+  "owner": {
+    "name": "Aaron Gee-Clough"
+  },
+  "plugins": [
+    {
+      "name": "SAT-skill",
+      "description": "Structured Analytic Techniques for cyber threat intelligence analysis",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}
